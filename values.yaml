@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  repository: devmapal/languagetool
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
