@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   languagetool:
   - apiVersion: v2
+    appVersion: "4.8"
+    created: "2020-02-08T21:15:39.176043535+01:00"
+    description: A Helm chart for LanguageTool
+    digest: 5b3002a564fc14f039e4a4e650de5ad932db2da8dba1ab1d6a55b46705eab99c
+    name: languagetool
+    type: application
+    urls:
+    - https://devmapal.github.io/helm-charts/languagetool-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: v4.8
-    created: "2020-02-07T23:09:34.530422194+01:00"
+    created: "2020-02-08T21:15:39.175372938+01:00"
     description: A Helm chart for LanguageTool
     digest: 48ff1d509e526c2d0be19592a0ba29178ed40e589fd065654465a9e1e21c5f62
     name: languagetool
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://devmapal.github.io/helm-charts/languagetool-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-07T23:09:34.529605643+01:00"
+generated: "2020-02-08T21:15:39.174430719+01:00"
